@@ -8,3 +8,5 @@ un blog incre%ible para el  curso de github.
 - el flujo de trabajo en github
 - el verdadero amor por las buenas parctica
 - y mucho mas
+- incluye ejemplos en windows 
+, linux y mac
